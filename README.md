@@ -7,3 +7,9 @@ The program executes with no inputs and conducts a Collision Attack and a Pre-Im
 It gathers results and saves them to an Excel spreadsheet where analysis can be performed.
 
 Roadmap: Build graphs in matplotlib instead of Excel.
+
+## RSA
+
+A program for executing encryption and decryption using RSA values. 
+
+The program will generate p and q values, phi and n values based off of those p and q values, check that their GCD is 1, and then generate a secret d exponent. Values after that were used for passoff of the project; Thus values generated during the passoff were hardcoded in.
